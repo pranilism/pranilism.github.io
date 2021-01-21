@@ -14,7 +14,7 @@ jobs:
     - name: Deploy to Github Pages
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        ACCESS_TOKEN: ${{ secrets.APP_SECREAT }}
         BASE_BRANCH: development # The branch the action should deploy from.
         BRANCH: master # The branch the action should deploy to.
         FOLDER: wwwroot # The folder the action should deploy.
