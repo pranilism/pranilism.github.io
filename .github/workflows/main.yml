@@ -1,25 +1,37 @@
-name: gh-pages
-
-on: [push]
+name: 'Publish application'
+on: push
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v2
-    - name: Setup .NET Core
-      uses: actions/setup-dotnet@v1
-      with:
-        dotnet-version: 3.1.301
-    - name: Publish with dotnet
-      run: dotnet publish --configuration Release --output build
-    - name: Deploy to Github Pages
-      uses: JamesIves/github-pages-deploy-action@releases/v3
-      with:
-        ACCESS_TOKEN: ${{ secrets.PUBLISH_TOKEN }}
-        BASE_BRANCH: development # The branch the action should deploy from.
-        BRANCH: master # The branch the action should deploy to.
-        FOLDER: build/wwwroot # The folder the action should deploy.
-        SINGLE_COMMIT: true
+        # Checkout the code
+        - uses: actions/checkout@v2
+
+        # Install .NET Core SDK
+        - name: Setup .NET Core
+          uses: actions/setup-dotnet@v1
+          with:
+            dotnet-version: 3.1.x
+
+        # Run tests
+        - name: Test
+          run: dotnet test
+
+        # Generate the website
+        - name: Publish
+          run: dotnet publish praniltunga.csproj --configuration Release
+
+        # Publish the website
+        - name: GitHub Pages action
+          if: ${{ github.ref == 'refs/heads/master' }} # Publish only when the push is on master
+          uses: peaceiris/actions-gh-pages@v3.6.1
+          with:
+            github_token: ${{ secrets.PUBLISH_TOKEN }}
+            publish_branch: master
+            publish_dir: bin/Release/netstandard2.1/publish/wwwroot
+            allow_empty_commit: false
+            keep_files: false
+            force_orphan: true
+            # TODO uncomment the following line if you have a custom domain name
+            # cname: demo.meziantou.net
