@@ -1,9 +1,9 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 
 <head>
     <title>Pranil Tunga</title>
-    <!--<base href="/" />-->
+    <base href="https://pranilism.github.io/" />
     <link href="manifest.json" rel="manifest" />
     <link rel="apple-touch-icon" sizes="512x512" href="icon-512.png" />
 
@@ -12,8 +12,9 @@
 
     <title>Personal Bootstrap Template</title>
     <meta content="" name="description">
-    <meta content="" name="keywords">
-
+    <meta content="praniltunga,pranilism,softwaredeveloper,dev,fullstackdeveloper,cpp,c,csharp,c#,.net,.netcore,blazor,webassembly,wasm" name="keywords">
+    <meta property='og:image' content='assets/img/sitecover.png'/>
+    
     <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
@@ -83,15 +84,21 @@
         // the single page app to route accordingly.
 
         (function (l) {
+
             if (l.search) {
+
                 var q = {};
 
                 l.search.slice(1).split('&').forEach(function (v) {
+
                     var a = v.split('=');
+
                     q[a[0]] = a.slice(1).join('=').replace(/~and~/g, '&');
+
                 });
 
                 if (q.p !== undefined) {
+
                     window.history.replaceState(null, null,
 
                         l.pathname.slice(0, -1) + (q.p || '') +
@@ -101,12 +108,15 @@
                         l.hash
 
                     );
+
                 }
+
             }
+
         }(window.location))
+
     </script>
-
-
+    
     <div id="blazor-error-ui"></div>
 
     <script src="_framework/blazor.webassembly.js"></script>
