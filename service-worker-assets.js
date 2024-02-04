@@ -1,15 +1,15 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-NhL61VaD7Bxg4kABuQUlFT\/jOMvovsfarx2bZ+6DHx8=",
+      "hash": "sha256-YIl17xQL6QgV48kIDvMNQsFiepKDMWJO5WbSmUbr7yQ=",
       "url": "assets\/css\/dots.css"
     },
     {
-      "hash": "sha256-DBVUgtIoyYdQPAaJ5xXfGwkssScuDctFWQUQvxSCliA=",
+      "hash": "sha256-Ml3Dwboo62f\/vkKjAxNNIZSCDk+jPYnZjH7rErH96yc=",
       "url": "assets\/css\/preloader.css"
     },
     {
-      "hash": "sha256-+qqKU1xFG\/K1K79DL5l5xYd8alX2Qx5zK5ZoLPvafqI=",
+      "hash": "sha256-s1gru8\/fgRsNVHqdFummQ7RgCWImZhmH8vrKQClokLA=",
       "url": "assets\/css\/style.css"
     },
     {
@@ -77,19 +77,19 @@
       "url": "assets\/img\/wasm.png"
     },
     {
-      "hash": "sha256-xUBDUd5YnwdXF27az0gvjXvhNa4vR3Y9IaxL49ogdlc=",
+      "hash": "sha256-+ZOZzijieh6EG9EsrbN867iqcnAftPgWe\/b4VXzEUj0=",
       "url": "assets\/js\/custome.js"
     },
     {
-      "hash": "sha256-jqRZLT2QwsVLDhiPbPAHI2mP6ptEyR8+N6BZ2zxtNLQ=",
+      "hash": "sha256-EaqdKcGSsamMKvBCFEPM\/87\/AcWNc1cJ8D7skquH+E4=",
       "url": "assets\/js\/dots.js"
     },
     {
-      "hash": "sha256-UpdRscETtSG9RLflBxeHqmdQNaYcqIwNZpfp+n\/0TMA=",
+      "hash": "sha256-wzlm+hrMr\/Mv+425GBwdC+qF1vSDxwSDzqHrCLWbYGM=",
       "url": "assets\/js\/main.js"
     },
     {
-      "hash": "sha256-jS0wMQlUzIIVtwdq4qnKhV68NdnCleKyL4ro+thLRmg=",
+      "hash": "sha256-kYqrjhTckW\/QkA78yjSSRcjk8PtlKfTLGsvo+l6+9NY=",
       "url": "assets\/js\/ScriptLoader.js"
     },
     {
@@ -165,7 +165,7 @@
       "url": "assets\/pwa_assets\/firefox\/firefox-marketplace-512-512.png"
     },
     {
-      "hash": "sha256-QXrvvaejkbrGoaQ1Xdd2vPJd65GJv2JBAWc1p9XPXbI=",
+      "hash": "sha256-yjfYFyoFaQZ+pn6S8d040CjzZLy\/pWmI\/ZPTnP2Lo3A=",
       "url": "assets\/pwa_assets\/icons.json"
     },
     {
@@ -175,110 +175,6 @@
     {
       "hash": "sha256-dPAPVC6+exWzJuvbaxjtQbuuiIwnGC0wjvDEES78ao0=",
       "url": "assets\/pwa_assets\/msteams\/msteams-silhouette-32-32.png"
-    },
-    {
-      "hash": "sha256-y\/4wrLV6cn3QGPlNFJBrLTqUgPuvPY8+Txv2pq49uuo=",
-      "url": "assets\/pwa_assets\/windows\/windows-smallsquare-24-24.png"
-    },
-    {
-      "hash": "sha256-CUWyd8yKPL4EVrnyGsFSat+PHWklqDAr2s8ebiP69xo=",
-      "url": "assets\/pwa_assets\/windows\/windows-smallsquare-30-30.png"
-    },
-    {
-      "hash": "sha256-6Af2TnUKYl0QL\/ZE5aY0RqERvNkriqCpZeb3b2gaPBY=",
-      "url": "assets\/pwa_assets\/windows\/windows-smallsquare-42-42.png"
-    },
-    {
-      "hash": "sha256-REE01sFQwl6UlK0guMAXefPw+t++7yhW2uIiqVJ9DPI=",
-      "url": "assets\/pwa_assets\/windows\/windows-smallsquare-54-54.png"
-    },
-    {
-      "hash": "sha256-T3rWbUiCtDbPu7MknnYoNw4wdj7DcITGDVq9rBrn+Y8=",
-      "url": "assets\/pwa_assets\/windows\/windows-splashscreen-1116-540.png"
-    },
-    {
-      "hash": "sha256-kM\/BE+RXCCTt34J5jk8fqRMFrYFMvhEwAFX+HLBM0rM=",
-      "url": "assets\/pwa_assets\/windows\/windows-splashscreen-620-300.png"
-    },
-    {
-      "hash": "sha256-D8cy2joEDT0gSFCw28gBkL5fSatFBnyvLz9K8p18CzI=",
-      "url": "assets\/pwa_assets\/windows\/windows-splashscreen-868-420.png"
-    },
-    {
-      "hash": "sha256-Ug22mTwI0Sko6wgT98m6NB+kCNViaomR7lRu6jFln6E=",
-      "url": "assets\/pwa_assets\/windows\/windows-squarelogo-120-120.png"
-    },
-    {
-      "hash": "sha256-IeVGEbTyyUttaZEWCvPABIehtX8RMkG1joKDgx+C\/JI=",
-      "url": "assets\/pwa_assets\/windows\/windows-squarelogo-150-150.png"
-    },
-    {
-      "hash": "sha256-YMcAKUFfTPLbnq\/vuE9T11xxu4S982lmJFV3xpzhGmc=",
-      "url": "assets\/pwa_assets\/windows\/windows-squarelogo-210-210.png"
-    },
-    {
-      "hash": "sha256-DWxdVRMaRcyiQhJ0Z+UvDAILnL2PdwF58SgPp5qXwSM=",
-      "url": "assets\/pwa_assets\/windows\/windows-squarelogo-270-270.png"
-    },
-    {
-      "hash": "sha256-4VzQcNexZpNmIKuTVKZLl3jxylhNou8kxZwu4fVz24g=",
-      "url": "assets\/pwa_assets\/windows\/windows-storelogo-50-50.png"
-    },
-    {
-      "hash": "sha256-Wd7d7\/p9ISJTToUgDwVxAbkaiuWcdK9Vcg8s23o\/zqU=",
-      "url": "assets\/pwa_assets\/windows\/windows-storelogo-70-70.png"
-    },
-    {
-      "hash": "sha256-1GwOoitpXdODABrCcBaNIOmly+rW4Ox02E\/3qnmfKjE=",
-      "url": "assets\/pwa_assets\/windows\/windows-storelogo-90-90.png"
-    },
-    {
-      "hash": "sha256-l206g1U+K21G4OiJ6n7sj04oUTwR4jgJ0p5j1lNyp6I=",
-      "url": "assets\/pwa_assets\/windows\/windowsphone-appicon-106-106.png"
-    },
-    {
-      "hash": "sha256-V4XU3SKsH\/8hvDyX3bh7ju45e9RKJZstiygA5BT31yw=",
-      "url": "assets\/pwa_assets\/windows\/windowsphone-appicon-44-44.png"
-    },
-    {
-      "hash": "sha256-EGHicUpzE72dUO9bWh3ZvXS1e1epnZrH+fBxUZqO3Z4=",
-      "url": "assets\/pwa_assets\/windows\/windowsphone-appicon-62-62.png"
-    },
-    {
-      "hash": "sha256-IeVGEbTyyUttaZEWCvPABIehtX8RMkG1joKDgx+C\/JI=",
-      "url": "assets\/pwa_assets\/windows\/windowsphone-mediumtile-150-150.png"
-    },
-    {
-      "hash": "sha256-YMcAKUFfTPLbnq\/vuE9T11xxu4S982lmJFV3xpzhGmc=",
-      "url": "assets\/pwa_assets\/windows\/windowsphone-mediumtile-210-210.png"
-    },
-    {
-      "hash": "sha256-y7eB4Wzcnl11Ihhi7oSRuxLlS6BG9JXbnkxpHzuNNxM=",
-      "url": "assets\/pwa_assets\/windows\/windowsphone-mediumtile-360-360.png"
-    },
-    {
-      "hash": "sha256-A5JompMAeAe4WKmQnr3lBhsVy9WC139K5ayfyw2QZlI=",
-      "url": "assets\/pwa_assets\/windows\/windowsphone-smalltile-170-170.png"
-    },
-    {
-      "hash": "sha256-IE9u0Rh0soe+sne2WvTQmMyy\/WW9hRe5B7XJr2uvprs=",
-      "url": "assets\/pwa_assets\/windows\/windowsphone-smalltile-71-71.png"
-    },
-    {
-      "hash": "sha256-5IgoI0QIHlDUJSZuSAQL3V4NFyiweuiCcB6JoDXch3c=",
-      "url": "assets\/pwa_assets\/windows\/windowsphone-smalltile-99-99.png"
-    },
-    {
-      "hash": "sha256-Ug22mTwI0Sko6wgT98m6NB+kCNViaomR7lRu6jFln6E=",
-      "url": "assets\/pwa_assets\/windows\/windowsphone-storelogo-120-120.png"
-    },
-    {
-      "hash": "sha256-4VzQcNexZpNmIKuTVKZLl3jxylhNou8kxZwu4fVz24g=",
-      "url": "assets\/pwa_assets\/windows\/windowsphone-storelogo-50-50.png"
-    },
-    {
-      "hash": "sha256-Wd7d7\/p9ISJTToUgDwVxAbkaiuWcdK9Vcg8s23o\/zqU=",
-      "url": "assets\/pwa_assets\/windows\/windowsphone-storelogo-70-70.png"
     },
     {
       "hash": "sha256-kM\/BE+RXCCTt34J5jk8fqRMFrYFMvhEwAFX+HLBM0rM=",
@@ -465,6 +361,110 @@
       "url": "assets\/pwa_assets\/windows10\/Wide310x150Logo.scale-400.png"
     },
     {
+      "hash": "sha256-y\/4wrLV6cn3QGPlNFJBrLTqUgPuvPY8+Txv2pq49uuo=",
+      "url": "assets\/pwa_assets\/windows\/windows-smallsquare-24-24.png"
+    },
+    {
+      "hash": "sha256-CUWyd8yKPL4EVrnyGsFSat+PHWklqDAr2s8ebiP69xo=",
+      "url": "assets\/pwa_assets\/windows\/windows-smallsquare-30-30.png"
+    },
+    {
+      "hash": "sha256-6Af2TnUKYl0QL\/ZE5aY0RqERvNkriqCpZeb3b2gaPBY=",
+      "url": "assets\/pwa_assets\/windows\/windows-smallsquare-42-42.png"
+    },
+    {
+      "hash": "sha256-REE01sFQwl6UlK0guMAXefPw+t++7yhW2uIiqVJ9DPI=",
+      "url": "assets\/pwa_assets\/windows\/windows-smallsquare-54-54.png"
+    },
+    {
+      "hash": "sha256-T3rWbUiCtDbPu7MknnYoNw4wdj7DcITGDVq9rBrn+Y8=",
+      "url": "assets\/pwa_assets\/windows\/windows-splashscreen-1116-540.png"
+    },
+    {
+      "hash": "sha256-kM\/BE+RXCCTt34J5jk8fqRMFrYFMvhEwAFX+HLBM0rM=",
+      "url": "assets\/pwa_assets\/windows\/windows-splashscreen-620-300.png"
+    },
+    {
+      "hash": "sha256-D8cy2joEDT0gSFCw28gBkL5fSatFBnyvLz9K8p18CzI=",
+      "url": "assets\/pwa_assets\/windows\/windows-splashscreen-868-420.png"
+    },
+    {
+      "hash": "sha256-Ug22mTwI0Sko6wgT98m6NB+kCNViaomR7lRu6jFln6E=",
+      "url": "assets\/pwa_assets\/windows\/windows-squarelogo-120-120.png"
+    },
+    {
+      "hash": "sha256-IeVGEbTyyUttaZEWCvPABIehtX8RMkG1joKDgx+C\/JI=",
+      "url": "assets\/pwa_assets\/windows\/windows-squarelogo-150-150.png"
+    },
+    {
+      "hash": "sha256-YMcAKUFfTPLbnq\/vuE9T11xxu4S982lmJFV3xpzhGmc=",
+      "url": "assets\/pwa_assets\/windows\/windows-squarelogo-210-210.png"
+    },
+    {
+      "hash": "sha256-DWxdVRMaRcyiQhJ0Z+UvDAILnL2PdwF58SgPp5qXwSM=",
+      "url": "assets\/pwa_assets\/windows\/windows-squarelogo-270-270.png"
+    },
+    {
+      "hash": "sha256-4VzQcNexZpNmIKuTVKZLl3jxylhNou8kxZwu4fVz24g=",
+      "url": "assets\/pwa_assets\/windows\/windows-storelogo-50-50.png"
+    },
+    {
+      "hash": "sha256-Wd7d7\/p9ISJTToUgDwVxAbkaiuWcdK9Vcg8s23o\/zqU=",
+      "url": "assets\/pwa_assets\/windows\/windows-storelogo-70-70.png"
+    },
+    {
+      "hash": "sha256-1GwOoitpXdODABrCcBaNIOmly+rW4Ox02E\/3qnmfKjE=",
+      "url": "assets\/pwa_assets\/windows\/windows-storelogo-90-90.png"
+    },
+    {
+      "hash": "sha256-l206g1U+K21G4OiJ6n7sj04oUTwR4jgJ0p5j1lNyp6I=",
+      "url": "assets\/pwa_assets\/windows\/windowsphone-appicon-106-106.png"
+    },
+    {
+      "hash": "sha256-V4XU3SKsH\/8hvDyX3bh7ju45e9RKJZstiygA5BT31yw=",
+      "url": "assets\/pwa_assets\/windows\/windowsphone-appicon-44-44.png"
+    },
+    {
+      "hash": "sha256-EGHicUpzE72dUO9bWh3ZvXS1e1epnZrH+fBxUZqO3Z4=",
+      "url": "assets\/pwa_assets\/windows\/windowsphone-appicon-62-62.png"
+    },
+    {
+      "hash": "sha256-IeVGEbTyyUttaZEWCvPABIehtX8RMkG1joKDgx+C\/JI=",
+      "url": "assets\/pwa_assets\/windows\/windowsphone-mediumtile-150-150.png"
+    },
+    {
+      "hash": "sha256-YMcAKUFfTPLbnq\/vuE9T11xxu4S982lmJFV3xpzhGmc=",
+      "url": "assets\/pwa_assets\/windows\/windowsphone-mediumtile-210-210.png"
+    },
+    {
+      "hash": "sha256-y7eB4Wzcnl11Ihhi7oSRuxLlS6BG9JXbnkxpHzuNNxM=",
+      "url": "assets\/pwa_assets\/windows\/windowsphone-mediumtile-360-360.png"
+    },
+    {
+      "hash": "sha256-A5JompMAeAe4WKmQnr3lBhsVy9WC139K5ayfyw2QZlI=",
+      "url": "assets\/pwa_assets\/windows\/windowsphone-smalltile-170-170.png"
+    },
+    {
+      "hash": "sha256-IE9u0Rh0soe+sne2WvTQmMyy\/WW9hRe5B7XJr2uvprs=",
+      "url": "assets\/pwa_assets\/windows\/windowsphone-smalltile-71-71.png"
+    },
+    {
+      "hash": "sha256-5IgoI0QIHlDUJSZuSAQL3V4NFyiweuiCcB6JoDXch3c=",
+      "url": "assets\/pwa_assets\/windows\/windowsphone-smalltile-99-99.png"
+    },
+    {
+      "hash": "sha256-Ug22mTwI0Sko6wgT98m6NB+kCNViaomR7lRu6jFln6E=",
+      "url": "assets\/pwa_assets\/windows\/windowsphone-storelogo-120-120.png"
+    },
+    {
+      "hash": "sha256-4VzQcNexZpNmIKuTVKZLl3jxylhNou8kxZwu4fVz24g=",
+      "url": "assets\/pwa_assets\/windows\/windowsphone-storelogo-50-50.png"
+    },
+    {
+      "hash": "sha256-Wd7d7\/p9ISJTToUgDwVxAbkaiuWcdK9Vcg8s23o\/zqU=",
+      "url": "assets\/pwa_assets\/windows\/windowsphone-storelogo-70-70.png"
+    },
+    {
       "hash": "sha256-R1GSXe1KGXUbB5LRkcwDbBnoC2j\/UgVGBcR2mxOjjG8=",
       "url": "assets\/vendor\/bootstrap\/css\/bootstrap-grid.css"
     },
@@ -545,7 +545,7 @@
       "url": "assets\/vendor\/bootstrap\/js\/bootstrap.min.js.map"
     },
     {
-      "hash": "sha256-LHy1ZpmyFjhTrWCWaCvZwAzRyGofbZ5OeGNamGhKl24=",
+      "hash": "sha256-GRzcp\/rad047fe8kPCI5B\/+ooa\/UxF09uFrI0ky2Oys=",
       "url": "assets\/vendor\/boxicons\/css\/animations.css"
     },
     {
@@ -557,7 +557,7 @@
       "url": "assets\/vendor\/boxicons\/css\/boxicons.min.css"
     },
     {
-      "hash": "sha256-I+mu69Q\/nodS2bRR5+ZCgrp7tvjp8t9FIU\/dexuVmg0=",
+      "hash": "sha256-FvZSJ1aRVujJTiMD+0MVXwJNPDiJCEemZ4FfHrddeJA=",
       "url": "assets\/vendor\/boxicons\/css\/transformations.css"
     },
     {
@@ -757,27 +757,23 @@
       "url": "favicon.ico"
     },
     {
-      "hash": "sha256-qVtcPMMyQko5fvChXiszOBOWDf9WB9ByOaDKp2TxGl0=",
+      "hash": "sha256-nt+ROvLMF9tS3\/wo2OiFsaAWbp6OFjtP6Xu+rwUPdqM=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-Bsr7Omp9p3l1KYQgEPJBxtBNXu93qtUB6aY524VZQLo=",
+      "hash": "sha256-lfYA2HJFtE9A9WBraOl5QZSdNDSCu\/2mtgBHZl1mYqg=",
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-+2PGJxusUGbrebuqkbRyNs+LXkMrxzAXN\/DulPrnCng=",
+      "hash": "sha256-M8\/xFCwCiVX0B1VeVtolpDsNxte87ttjBfaKkUFEbuw=",
       "url": "_framework\/_bin\/Microsoft.AspNetCore.Components.dll"
     },
     {
-      "hash": "sha256-VQELCYVqYrQMah2BqSc88Heek1xNAdyT5GpZlnDT4Rc=",
-      "url": "_framework\/_bin\/Microsoft.AspNetCore.Components.Forms.dll"
-    },
-    {
-      "hash": "sha256-euRYOUN\/6eakAH0nWyLy10WyNY2lsfkeWtehpJH7xL4=",
+      "hash": "sha256-RFvOoNzv0sDDfxVLYlY9N1GwiJk4gFQZRUJB32IOKvo=",
       "url": "_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll"
     },
     {
-      "hash": "sha256-cf319K5bRBt878+EwqCliP5FHA5P0nESJf2AW134mq4=",
+      "hash": "sha256-X0eCXfIBFBoMenajdPCunxsK3bKwudHcWv1rllkdVes=",
       "url": "_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
@@ -785,39 +781,39 @@
       "url": "_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll"
     },
     {
-      "hash": "sha256-wK+GTNFG+qGSH5ul4PkuujmV+beW0cYOj0\/U1IG+KDE=",
+      "hash": "sha256-JkxrvuZ0hHxm7ZspSR6H1QV8pd9hpmI3mdxvzQdyqTI=",
       "url": "_framework\/_bin\/Microsoft.Extensions.Configuration.Abstractions.dll"
     },
     {
-      "hash": "sha256-SnrNkD54oZYYzxh\/nrpy3Q9UmAORHJ\/psmeTJNqGE1Q=",
+      "hash": "sha256-8LNfB7SR0q+6OPCZcGWZx2+3zNaWm1nu9axU3dUEgBA=",
       "url": "_framework\/_bin\/Microsoft.Extensions.Configuration.dll"
     },
     {
-      "hash": "sha256-J9Y78D9359ZmGuNXypVe0bWt47jlg9QBRg3N\/mHzXbY=",
+      "hash": "sha256-DZUkDjdD6xpM3pTiDRaN8INK52ReqxWNTRZKIC1PcqY=",
       "url": "_framework\/_bin\/Microsoft.Extensions.Configuration.Json.dll"
     },
     {
-      "hash": "sha256-ruEm+hegvAQKbnQbZ7lnfG2YBEPxEO8EUAiz+S9fggU=",
+      "hash": "sha256-1xNayB5lCEA6MPC+3bo2vJHsb8\/Lkk5AsnsHdbAUPJs=",
       "url": "_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
     },
     {
-      "hash": "sha256-P5qEBPhE5FyvhR19o+8ygcZLENiqZuJ1WAb8aZJkopg=",
+      "hash": "sha256-9\/rJvDDv5c6Q+uD93sR2GKhvkenWvoyjPuOSphm9c8U=",
       "url": "_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll"
     },
     {
-      "hash": "sha256-mef79b3uGYQDAokwEyOfoPNkLFoQ2RCkhWqN9DbZEYo=",
+      "hash": "sha256-Shjn\/aW2+Jbe1WvUbytQaJ1K8P8tGZ7RubAD1x2EQqE=",
       "url": "_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
-      "hash": "sha256-we5SZIvD5Aq2zLxXzsgQ\/SQUrbjmtnT6ONwLRETWWnA=",
+      "hash": "sha256-yOL6MTcW2BuUR2Ww1y\/56v\/GkbN\/aS8elIHAzJLeZBs=",
       "url": "_framework\/_bin\/Microsoft.Extensions.Logging.dll"
     },
     {
-      "hash": "sha256-04YnAWgS21d5D7TLXxBL9rDzE3U59pX0azGMGiVNe6w=",
+      "hash": "sha256-8M93NvbeaJwCkQMOnFpgRsVrxHToC+\/\/VQrFVLOg4Kc=",
       "url": "_framework\/_bin\/Microsoft.Extensions.Options.dll"
     },
     {
-      "hash": "sha256-e0HH+S\/k+uj35yelsxWYdMVwdnjMC30bA91icZ9Aiac=",
+      "hash": "sha256-nAfd7xDqBF3aP2Tt7OhWbUyyJmKvxy0SfBgeldzZQh0=",
       "url": "_framework\/_bin\/Microsoft.Extensions.Primitives.dll"
     },
     {
@@ -829,47 +825,35 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-6mm3vj2CuU720DQju+Qld74cz0FBiMAPNSQr77ERunw=",
+      "hash": "sha256-TiW3Eigl5wDqvrQXVArNk5ANK2JkQE37mo9FBd9F3uA=",
       "url": "_framework\/_bin\/mscorlib.dll"
     },
     {
-      "hash": "sha256-Q0yzccS9A6PSZ2u\/7dkMXVVjKsiRDE5AnFZXog6H3vM=",
+      "hash": "sha256-AgyJEcNEGfIlE+uDrciAydSI9bDPzajCTzjZyY3xh+A=",
       "url": "_framework\/_bin\/praniltunga.dll"
     },
     {
-      "hash": "sha256-U2zxgKF1F03b3LdV+H8c9G5Zl5eU\/wXxHGEso8mW1aI=",
+      "hash": "sha256-vn1OYbhvm8BrM7LYWSfVlgu1V7ZpUiuDt7IkcpIHR0c=",
       "url": "_framework\/_bin\/System.Core.dll"
     },
     {
-      "hash": "sha256-skg4nCIVHSqthkS8bZ+mcnA2n\/1BafWRhBG0Mapb6po=",
+      "hash": "sha256-R6ZUJ+mjlN3\/QVWuA\/ay3wvLwahYT9lLXbbRG1CBdGs=",
       "url": "_framework\/_bin\/System.dll"
     },
     {
-      "hash": "sha256-cbHzmfZmG4ArYRWSyQQj1b1M9pn1TWRnqbPlRm0w9yE=",
-      "url": "_framework\/_bin\/System.Net.Http.dll"
-    },
-    {
-      "hash": "sha256-EMFuf0XTw+cN20oPvscbtr6nVLnLIcUaLu7nnIMsPZg=",
-      "url": "_framework\/_bin\/System.Net.Http.Json.dll"
-    },
-    {
-      "hash": "sha256-h\/TC2Lha6Vs1cgBjOMSqqE2SNPWvvTPLMmetvuRbWHU=",
-      "url": "_framework\/_bin\/System.Net.Http.WebAssemblyHttpHandler.dll"
-    },
-    {
-      "hash": "sha256-bD\/gJkPJ9KswBfYmmuqXw\/h6nfJ8l9b7UHS1J2oU4mM=",
+      "hash": "sha256-3CB2WfbFM84gU5W0Ki9uX3idLypGe8JfHz+TyYPDpSk=",
       "url": "_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll"
     },
     {
-      "hash": "sha256-saudFpHMkUX9ojHxauRinG20EEfC0lY6YEkJhaxNKnQ=",
+      "hash": "sha256-o30mBDxxmMPh2zxvXdEGh3EgpoP476Gk5+rA0yRIin0=",
       "url": "_framework\/_bin\/System.Text.Encodings.Web.dll"
     },
     {
-      "hash": "sha256-rRYBezmUI9GxBWwRUxgYw82aPO\/j4\/qaUXR9q9vCsxY=",
+      "hash": "sha256-SfJyzHVZsQ5wX5MrmFt4O++zojCIhLlcNxJ1xivkDrs=",
       "url": "_framework\/_bin\/System.Text.Json.dll"
     },
     {
-      "hash": "sha256-T9IfmJYwEwv8bxofku2n46lqWYaKN3lfFeapDWWzgwE=",
+      "hash": "sha256-VAvUtixPq1xU3b5kN2jh6yKPE9Qspznju5E\/p\/RkI+0=",
       "url": "_framework\/_bin\/WebAssembly.Bindings.dll"
     },
     {
@@ -889,9 +873,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-BhR331MhAz1ZTAEwckaElpUuP+pKPaDqzMPogSlU5\/w=",
+      "hash": "sha256-2sRQp4RBice15tyyiPBIUlttZgu+gxciZtVxJuuBuhM=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "lrgoDE6t"
+  "version": "nj83xGE4"
 };
